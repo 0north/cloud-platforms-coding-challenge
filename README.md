@@ -29,8 +29,6 @@ Please follow these steps to submit your solution:
 
 In your pull request, make sure to include your Terraform code and the README.md file explaining how to deploy and test your setup. Your PR will be reviewed based on the evaluation criteria mentioned earlier.
 
-This submission process will allow candidates to submit their solutions directly through GitHub or another version control platform.
-
 ### Evaluation Criteria
 
 Your solution will be evaluated based on the following criteria:
@@ -73,5 +71,3 @@ Your solution will be evaluated based on the following criteria:
 3. Integration: Does Minio send notifications to NATS when objects are stored or updated, and does the Fission-deployed serverless function respond to these notifications correctly?
 4. Documentation: Is the README.md file clear and informative, providing instructions for deployment and testing? Does it include links to relevant documentation?
 5. Code Quality: Is the code and configuration clean, well-commented, and easy to understand?
-
-This challenge allows candidates to demonstrate their skills in local Kubernetes setup, Minio, NATS, and Fission for serverless function integration, with easy access to relevant documentation.
