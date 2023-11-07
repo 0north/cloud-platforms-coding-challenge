@@ -16,7 +16,7 @@ You are tasked with setting up a simple AWS infrastructure using Terraform. Your
 4. Provide a README.md file with clear instructions on how to deploy and test the setup.
 
 ### Submission
-PLease send us a link to a repository in GitHub, containing your solution.
+Please send us a link to a repository in GitHub, containing your solution.
 - Keep a good commit history (don't squash into a sigle commit) 
 
 ### Evaluation Criteria
